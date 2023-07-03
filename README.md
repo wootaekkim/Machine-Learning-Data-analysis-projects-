@@ -1,6 +1,6 @@
 # Data-analysis-projects-
 
-Here we have three data analysis projects. 
+Here we have three data analysis projects.<br> 
 Below are brief introduction of each proejct.
 
 1. Bank Customer Churn Prediction
