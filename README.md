@@ -3,6 +3,7 @@
 Here we have three data analysis projects.<br> 
 Below are brief introduction of each proejct.
 
+<br>
 1. Bank Customer Churn Prediction
 
 This is done using dataset from Kaggle.
