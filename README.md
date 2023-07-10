@@ -1,6 +1,6 @@
 # Data-analysis-projects-
 
-Here we have three data analysis projects.<br> 
+Here we have three data analysis projects.<br>
 Below are brief introduction of each proejct.
 
 
@@ -22,5 +22,5 @@ For prediction, I have mainly used tree based algorithms such as XGBoost and Lig
 
 Just as above two projects, this is also done using dataset from Kaggle.
 Goal of this project was to predict ratings of the games released on Steam which is a video game digital distribution service.
-Here I have combined two features which had high correlation coefficients Which turned out to have highest features importance.
+Here, as part of feature engneering process I have combined two features which had high correlation coefficients Which turned out to have the highest features importance.
 For prediction, I mostly used tree based models such as XGBoost and LightGBM then combined them all using stacked model. After trials of train and prediction preocesses using various models, I got the best result from Stacked model with RMSE score 0.097. 
