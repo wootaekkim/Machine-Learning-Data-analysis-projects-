@@ -1,7 +1,7 @@
 # Data-analysis-projects-
 
-Here we have three data analysis projects.<br>
-Below are brief introduction of each proejct.
+Here we have three data analysis projects focused on data cleaning, feature engineering, and use of machine learning algorithms.<br>
+Below are brief introduction of each project.
 
 
 1. Bank Customer Churn Prediction
