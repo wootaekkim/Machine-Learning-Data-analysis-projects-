@@ -8,7 +8,7 @@ Below are brief introduction of each project.
 
 This is done using dataset from Kaggle.<br />
 Here my goal was to predict whether customer would leave or not based on the features.<br />
-In the process of doing so, I have used XGBoost, LightGBM, AdaBoost and Logistic Regression. Lastly, I used Stacked model which gave me the best result of False Positive Rate of 16.8%. The reason I used False Positive Rate as my measure of performance of models is beacause Falsely predicting that a customer would stay would create more lost thatn falsely predicting customer would leave as loosing a customer would create more loss to the company. This is because high false positive rate means company will loose customer without being able to foreseeing or being able handle them before hand. 
+In the process of doing so, I have used XGBoost, LightGBM, AdaBoost and Logistic Regression. Then, I used Stacked model which gave me the best result of False Positive Rate of 16.8%. The reason I used False Positive Rate as my measure of performance of models was beacause Falsely predicting that a customer would stay would create more lost thatn falsely predicting customer would leave as loosing a customer would create more loss to the company. This is because high false positive rate means company will loose customer without being able to foreseeing or being able handle them before hand. 
 
 ### 2. Monitor Deals Price Prediction
 
