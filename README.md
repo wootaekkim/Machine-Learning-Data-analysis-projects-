@@ -1,4 +1,4 @@
-# Data-analysis-projects-
+# Data-analysis-projects (Machine Learning)
 
 Here we have three data analysis projects focused on data cleaning, feature engineering, and use of machine learning algorithms.<br>
 Below are brief introduction of each project.
